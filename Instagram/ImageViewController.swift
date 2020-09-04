@@ -1,5 +1,5 @@
 //
-//  PostViewController.swift
+//  ImageViewController.swift
 //  Instagram
 //
 //  Created by み on 2020/09/04.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class PostViewController: UITabBarController {
+class ImageViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
